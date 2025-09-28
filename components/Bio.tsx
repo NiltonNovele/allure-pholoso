@@ -27,7 +27,7 @@ export const Bio = () => {
 
       {/* About Us */}
         <div className="md:flex md:items-center md:gap-8">
-          <div className="md:w-1/2 mb-4 md:mb-0">
+          {/* <div className="md:w-1/2 mb-4 md:mb-0">
             <Image
               loader={imageLoader}
               src="/wigs.png"
@@ -36,7 +36,7 @@ export const Bio = () => {
               height={400}
               className="rounded-lg shadow-md"
             />
-          </div>
+          </div> */}
           <div className="md:w-1/2">
             <h2 className="text-2xl font-semibold mb-4">About Us</h2>
             <p className="text-gray-600">
