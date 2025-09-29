@@ -56,7 +56,7 @@ export const Showcase: React.FC<ShowcaseProps> = ({ limit }) => {
           <div className="flex flex-row items-center my-8">
             <span className="w-full h-0.5 bg-gray-300 mr-4"></span>
             <h1 className="text-4xl font-bold text-gray-800 tracking-wide">
-              Wig Collection
+              Syntetic Wig Collection
             </h1>
             <span className="w-full h-0.5 bg-gray-300 ml-4"></span>
           </div>

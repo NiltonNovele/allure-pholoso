@@ -14,9 +14,9 @@ const wigsData: Wig[] = [
     // ========== Straight Synthetic Range ==========
   {
     id: "1",
-    name: "Elie (Ash Blonde)",
+    name: "Olive (Black)",
     description:
-      "Elie (Ash Blonde)",
+      "Olive (Black)",
     images: ["/wigs/olive_black.jpg", "/wigs/elie (ash blonde).jpg"],
     sizes: [
       { size: "28", price: 500 },
@@ -28,8 +28,8 @@ const wigsData: Wig[] = [
   {
     id: "2",
     name: "Kinky Straight Headband Wig",
-    description: "36” full frontal synthetic wig. Available in Black and Brown.",
-    images: ["/wigs/kinky_headband.jpg", "/wigs/kinky_headband.jpg"],
+    description: "",
+    images: ["/wigs/kinky_headband.jpg" ],
     sizes: [{ size: "36", price: 300 }],
     forShowcase: true,
   },
@@ -37,7 +37,7 @@ const wigsData: Wig[] = [
     id: "3",
     name: "ULA - Ombre brown synthetic full frontal wig",
     description:
-      "ULA - Ombre brown synthetic full frontal wig",
+      "ULA - Ombre brown synthetic full frontal wig. Also available in Black.",
     images: [
       "/wigs/ULA - Ombre brown.jpg",
     ],
@@ -82,7 +82,7 @@ const wigsData: Wig[] = [
     description:
       "Black Curly Headband Wig. Available in Ombre brown as well.",
     images: ["/wigs/Black Curly Headband.jpg", "/wigs/Black Curly Headband.jpg"],
-    sizes: [{ size: "28", price: 700 }],
+    sizes: [{ size: "28", price: 200 }],
     forShowcase: true,
   },
   {
@@ -93,15 +93,31 @@ const wigsData: Wig[] = [
     sizes: [{ size: "28", price: 700 }],
     forShowcase: true,
   },
-
-  // ========== Headband Wig Range ==========
   {
-    id: "8",
-    name: "Kinky Straight Headband Wig",
-    description: "Available in Chocolate Brown for a voluminous natural look.",
-    images: ["/wigs/kinky_headband.jpg"],
-    sizes: [{ size: "Standard", price: 300 }],
-    forShowcase: false,
+    id: "9",
+    name: "Latisha full frontal wig",
+    description: "Latisha - 28' Human Blended Bouncy full frontal wig (Black & Brown comming soon)",
+    images: ["/wigs/Latisha.jpg"],
+    sizes: [{ size: "28", price: 700 }],
+    forShowcase: true,
+  },
+  {
+    id: "10",
+    name: "Olive (Black & Blonde)",
+    description: "Olive (Black & Blonde)",
+    images: ["/wigs/olive_black.jpg", "/wigs/olive blonde.jpg" ],
+    sizes: [{ size: "28", price: 500 }],
+    sizes: [{ size: "34", price: 650 }],
+    sizes: [{ size: "40", price: 750 }],
+    forShowcase: true,
+  },
+  {
+    id: "11",
+    name: "Straight Headband wig",
+    description: "Straight Headband wig",
+    images: ["/wigs/straight.jpg"],
+    sizes: [{ size: "28", price: 700 }],
+    forShowcase: true,
   },
 ];
 
