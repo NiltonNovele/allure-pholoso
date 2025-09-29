@@ -26,17 +26,10 @@ export const Contact = () => {
               </div>
             </div>
             <div className="flex items-center gap-3">
-              <FaEnvelope className="text-indigo-600" />
-              <div>
-                <h3 className="font-medium">Email</h3>
-                <p className="text-gray-600">{data.email}</p>
-              </div>
-            </div>
-            <div className="flex items-center gap-3">
               <FaPhone className="text-indigo-600" />
               <div>
                 <h3 className="font-medium">Phone</h3>
-                <p className="text-gray-600">0771234567</p>
+                <p className="text-gray-600">0761557334</p>
               </div>
             </div>
           </div>

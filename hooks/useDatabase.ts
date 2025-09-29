@@ -116,7 +116,7 @@ const wigsData: Wig[] = [
     name: "Straight Headband wig",
     description: "Straight Headband wig",
     images: ["/wigs/straight.jpg"],
-    sizes: [{ size: "28", price: 700 }],
+    sizes: [{ size: "28", price: 320 }],
     forShowcase: true,
   },
 ];
