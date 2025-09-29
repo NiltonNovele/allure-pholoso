@@ -39,7 +39,7 @@ export const Contact = () => {
         <form
           className="grid gap-6 p-8 rounded-2xl shadow-xl"
           style={{ backgroundColor: "#fff1f0", border: "1px solid #fcd5ce" }}
-          action="https://formsubmit.co/garimamalik28199@gmail.com"
+          action=""
           method="POST"
         >
           <input

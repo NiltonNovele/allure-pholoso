@@ -104,11 +104,10 @@ const wigsData: Wig[] = [
   {
     id: "10",
     name: "Olive (Black & Blonde)",
-    description: "Olive (Black & Blonde)",
+    description: "Olive (Black & Blonde): sizes: 34' R650 | 40' R750",
     images: ["/wigs/olive_black.jpg", "/wigs/olive blonde.jpg" ],
     sizes: [{ size: "28", price: 500 }],
-    sizes: [{ size: "34", price: 650 }],
-    sizes: [{ size: "40", price: 750 }],
+    
     forShowcase: true,
   },
   {
